@@ -1,3 +1,5 @@
 # Flower_counter
 
 A basic counter using HTML,CSS & JS made as a part of JS Tutorial by Scrimba :")
+
+https://resplendent-biscotti-191318.netlify.app/
